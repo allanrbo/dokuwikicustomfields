@@ -1,0 +1,7 @@
+base customfields
+author Allan Boll
+email allan@acoby.com
+date 2013-09-29
+name Custom fields
+desc A way of defining data in wiki text which can then be used in a template. Similar to the custom fields concept in WordPress.
+url http://www.acoby.com
